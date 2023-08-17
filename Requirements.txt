@@ -1,4 +1,0 @@
-Tensorflow
-NumPy
-Keras
-OpenCV
